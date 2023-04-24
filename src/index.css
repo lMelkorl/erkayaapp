@@ -1,0 +1,57 @@
+.homem {
+  background-image: url("http://www.er-kaya.com.tr/images/slider-03.jpg") !important;
+  background-size: cover;
+}
+.workum {
+  padding: 20px;
+
+  background-image: url("http://www.er-kaya.com.tr/images/bg/counters-bg.jpg") !important;
+  background-size: cover;
+  border-radius: 20px;
+}
+.workumtext {
+  opacity: 1 !important;
+  color: white !important;
+  font-weight: bolder;
+  z-index: 10 !important;
+}
+.ealerts {
+  width: 100%;
+  height: auto;
+  opacity: 1;
+  padding: 2rem;
+  background-color: white;
+  color: rgb(62, 143, 116);
+  border-radius: 10px;
+}
+
+.ph1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black !important;
+  font-size: 4rem !important;
+}
+
+.icr1 {
+  background-image: url("http://www.er-kaya.com.tr/images/bg/counters-bg.jpg") !important;
+  background-size: cover;
+  height: 250px;
+  border-radius: 25px;
+}
+
+.icr2 {
+  background-image: url("http://www.er-kaya.com.tr/images/bg/counters-bg.jpg") !important;
+  background-size: cover;
+  height: 250px;
+  border-radius: 25px;
+}
+.logoimg {
+  background-image: url("./logo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  top: 30px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
